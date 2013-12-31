@@ -4,7 +4,7 @@ import strings.checkpalindrome.CheckPalindrome;
 
 /**
  * Find longest palindrome string in a given input string.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 9/18/13
  * Time: 5:53 PM
  */

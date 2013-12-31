@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Test class for nested list sum.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/7/13
  * Time: 4:20 PM
  */

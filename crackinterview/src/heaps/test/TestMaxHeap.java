@@ -5,7 +5,7 @@ import heaps.heap.MaxHeap;
 
 /**
  * Test class for max heap
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/24/13
  * Time: 2:51 PM
  */

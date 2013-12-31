@@ -13,7 +13,7 @@ import sorting.algorithms.SelectionSort;
  * online (new elements can be added during the sort).
  *
  * Main class to execute all algorithms.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 8/20/13
  * Time: 2:56 PM
  */

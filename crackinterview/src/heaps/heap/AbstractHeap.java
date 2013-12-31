@@ -4,7 +4,7 @@ import heaps.heap.model.Node;
 
 /**
  * Abstract Heap Class.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/24/13
  * Time: 2:29 PM
  */

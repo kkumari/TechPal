@@ -6,7 +6,7 @@ import java.util.Set;
 
 /**
  * Find all dictionary words in a given string.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/1/13
  * Time: 10:03 AM
  * To change this template use File | Settings | File Templates.

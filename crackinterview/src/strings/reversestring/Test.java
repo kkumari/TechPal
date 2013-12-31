@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Test class.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/4/13
  * Time: 1:06 PM
  */

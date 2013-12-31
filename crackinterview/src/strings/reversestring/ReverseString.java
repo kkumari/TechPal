@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  * Reverse a string using DS or in-place.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/4/13
  * Time: 12:57 PM
  */

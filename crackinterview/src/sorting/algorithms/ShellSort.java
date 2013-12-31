@@ -2,7 +2,7 @@ package sorting.algorithms;
 
 /**
  *
- * User: rpanjrath
+ * User: vpaloju
  * Date: 8/20/13
  * Time: 2:56 PM
  */

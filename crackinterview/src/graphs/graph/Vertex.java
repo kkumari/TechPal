@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * Class denoting Vertex in graph.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/24/13
  * Time: 5:35 PM
  */

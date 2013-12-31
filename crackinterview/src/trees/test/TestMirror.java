@@ -6,7 +6,7 @@ import trees.treeproblems.MirrorTree;
 
 /**
  * Check if a tree T1 is mirror of T2
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/4/13
  * Time: 10:58 AM
  */

@@ -2,7 +2,7 @@ package trees.model;
 
 /**
  * Binary Search BinarySearchTree AbstractNode.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/3/13
  * Time: 1:24 PM
  */

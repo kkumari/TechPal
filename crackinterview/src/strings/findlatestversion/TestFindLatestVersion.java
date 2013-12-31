@@ -4,7 +4,7 @@ import strings.findlatestversion.FindLatestVersion;
 
 /**
  * Test class for FindLatestVersion.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/7/13
  * Time: 2:06 PM
  */

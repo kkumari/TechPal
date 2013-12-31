@@ -2,7 +2,7 @@ package collections.customlinkedlist;
 
 /**
  * Linked List Interface
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/29/13
  * Time: 3:36 PM
  */

@@ -4,7 +4,7 @@ import numberproblems.convertstringtonumber.ConvertStringToNum;
 
 /**
  * Test class for string to int conversion.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/28/13
  * Time: 1:32 PM
  * To change this template use File | Settings | File Templates.

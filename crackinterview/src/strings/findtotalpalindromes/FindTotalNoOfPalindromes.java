@@ -5,7 +5,7 @@ import strings.checkpalindrome.CheckPalindrome;
 /**
  * Find total number of palindromes in a String.
  * For example the input is 'abba' then the possible palindromes= a, b, b, a, bb, ababa. Total: 6
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/6/13
  * Time: 1:10 PM
  */

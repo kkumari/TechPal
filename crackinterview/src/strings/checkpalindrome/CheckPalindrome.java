@@ -7,7 +7,7 @@ import java.util.Stack;
  * Using Stack
  * Alternate solution is to start at 0 and length - 1 index and compare char at (0 and len - 1), (1 and len - 2) ....
  * Alternate str.equals(new StringBuffer().append(str).reverse().toString()).. reverse and compare 2 strings.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 9/18/13
  * Time: 3:37 PM
  */

@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * Abstract class depicting a graph.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/24/13
  * Time: 5:39 PM
  */

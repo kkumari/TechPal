@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * Test class for ImmutableClass
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/22/13
  * Time: 4:35 PM
  * To change this template use File | Settings | File Templates.

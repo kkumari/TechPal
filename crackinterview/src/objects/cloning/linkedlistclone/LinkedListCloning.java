@@ -6,7 +6,7 @@ import collections.customlinkedlist.LinkedListImpl;
 
 /**
  * Test class for linked list cloning.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/29/13
  * Time: 3:51 PM
  */

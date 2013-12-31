@@ -9,7 +9,7 @@ import java.util.List;
  * <p/>
  * Logic: x + y = 3. You can consider each element in input as x and check if remaining array contains y since
  * y = 3 - x. For e.g. x = 1 then y = 3 - 1 = 2. Check if remaining array {0, 2, 3} contains 2.... form a pair if yes.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/8/13
  * Time: 2:46 PM
  */

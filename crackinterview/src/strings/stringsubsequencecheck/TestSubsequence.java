@@ -2,7 +2,7 @@ package strings.stringsubsequencecheck;
 
 /**
  * Test sub-sequence
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/18/13
  * Time: 5:36 PM
  */

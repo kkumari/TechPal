@@ -9,7 +9,7 @@ package objects.singleton;
  * Thread B notices that the shared variable has been initialized (or so it appears), and returns its value.
  * Because thread B believes the value is already initialized, it does not acquire the lock.
  * If B uses the object before all of the initialization done by A is seen by B the program will likely crash.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/15/13
  * Time: 12:35 PM
  */

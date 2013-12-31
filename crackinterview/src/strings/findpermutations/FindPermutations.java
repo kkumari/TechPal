@@ -3,7 +3,7 @@ package strings.findpermutations;
 
 /**
  * Find permutations (ANAGRAMS) of a string. For e.g. for AB it's AB and BA...
- * User: rpanjrath
+ * User: vpaloju
  * Date: 9/18/13
  * Time: 4:13 PM
  *

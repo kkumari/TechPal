@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * UnDirected AbstractGraph.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/24/13
  * Time: 5:58 PM
  */

@@ -2,7 +2,7 @@ package arrays.maxsubarray;
 
 /**
  * Test class for max sub array.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/4/13
  * Time: 4:44 PM
  */

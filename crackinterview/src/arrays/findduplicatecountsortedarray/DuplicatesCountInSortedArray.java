@@ -26,7 +26,7 @@ package arrays.findduplicatecountsortedarray;
  * <p/>
  * http://crackinterviewtoday.wordpress.com/2010/03/05/count-the-number-of-occurrences-of-a-element-in-a-sorted-array/
  * <p/>
- * User: rpanjrath
+ * User: vpaloju
  * Date: 12/10/13
  * Time: 4:55 PM
  */

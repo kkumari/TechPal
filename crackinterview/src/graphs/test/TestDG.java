@@ -6,7 +6,7 @@ import graphs.graph.Vertex;
 
 /**
  * Test class for graphs.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/24/13
  * Time: 6:01 PM
  */

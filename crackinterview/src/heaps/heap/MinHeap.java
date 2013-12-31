@@ -4,7 +4,7 @@ import heaps.heap.model.Node;
 
 /**
  * Min heap. It will always have minimum value @root or heapArray[0].
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/24/13
  * Time: 5:03 PM
  */

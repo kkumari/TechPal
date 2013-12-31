@@ -12,7 +12,7 @@ package sorting.algorithms;
  * http://www.algolist.net/Algorithms/Sorting/Bubble_sort
  * http://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif
  *
- * User: rpanjrath
+ * User: vpaloju
  * Date: 8/20/13
  * Time: 2:55 PM
  */

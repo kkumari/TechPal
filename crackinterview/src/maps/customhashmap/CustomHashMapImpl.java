@@ -2,7 +2,7 @@ package maps.customhashmap;
 
 /**
  * Implementing hashmap.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 9/22/13
  * Time: 1:17 PM
  */

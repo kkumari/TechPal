@@ -5,7 +5,7 @@ import trees.model.TraverseType;
 
 /**
  * Check if a tree T1 is a sub tree of tree T2.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/4/13
  * Time: 12:49 PM
  */

@@ -2,7 +2,7 @@ package strings.findlongestpalindrome;
 
 /**
  * Test class
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/6/13
  * Time: 2:44 PM
  */

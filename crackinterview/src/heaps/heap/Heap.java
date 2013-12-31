@@ -5,7 +5,7 @@ import heaps.heap.model.Node;
 /**
  * Complexity: Find min/max: O(1), Delete: O(log N), INSERT: O(log N)
  * Space: O(N)
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/24/13
  * Time: 2:25 PM
  */

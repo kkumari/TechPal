@@ -7,7 +7,7 @@ import trees.treeproblems.FindAllPathsEqualToSum;
 
 /**
  * Test class for @FindAllPathsEqualToSum
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/4/13
  * Time: 7:18 PM
  * To change this template use File | Settings | File Templates.

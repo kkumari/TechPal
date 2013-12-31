@@ -2,7 +2,7 @@ package arrays.test;
 
 /**
  * Test class for @FindPairsEqualToSum
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/8/13
  * Time: 2:54 PM
  */

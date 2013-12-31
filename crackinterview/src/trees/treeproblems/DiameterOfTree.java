@@ -5,7 +5,7 @@ import trees.model.SearchNode;
 /**
  * Diameter of a Tree is defined as the number of nodes on the longest path between two leaves in the tree.
  * http://crackinterviewtoday.wordpress.com/2010/03/11/diameter-of-a-binary-tree/
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/15/13
  * Time: 3:21 PM
  */

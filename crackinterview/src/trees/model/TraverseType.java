@@ -2,7 +2,7 @@ package trees.model;
 
 /**
  * Enum specifying the type of traversal. INORDER, POSTORDER, PREORDER
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/3/13
  * Time: 2:50 PM
  */

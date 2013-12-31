@@ -6,7 +6,7 @@ import java.util.Queue;
 
 /**
  * Implement a blocking queue.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/14/13
  * Time: 2:07 PM
  */

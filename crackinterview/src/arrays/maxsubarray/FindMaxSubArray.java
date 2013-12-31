@@ -12,7 +12,7 @@ import java.util.Arrays;
  * 3. Keep on updating maxSoFar whenever maxEndingAtCurrentPosition is greater than maxSoFar.
  *
  * http://en.wikipedia.org/wiki/Kadane%27s_Algorithm
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/4/13
  * Time: 3:23 PM
  */

@@ -6,7 +6,7 @@ package sorting.algorithms;
  *
  * http://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif
  *
- * User: rpanjrath
+ * User: vpaloju
  * Date: 8/20/13
  * Time: 2:55 PM
  */

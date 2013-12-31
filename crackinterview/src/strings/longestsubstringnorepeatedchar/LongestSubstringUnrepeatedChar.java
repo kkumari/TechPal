@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * Given s string, Find max size of a sub-string, in which no duplicate chars present.
  * Hint: Kadane's algo.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/11/13
  * Time: 10:58 AM
  */

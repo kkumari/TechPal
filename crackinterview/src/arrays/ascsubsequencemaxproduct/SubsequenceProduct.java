@@ -8,7 +8,7 @@ package arrays.ascsubsequencemaxproduct;
  * Example:
  * Input: 6 7 8 1 2 3 9 10
  * Ouput: 8 9 10
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/14/13
  * Time: 1:41 PM
  */

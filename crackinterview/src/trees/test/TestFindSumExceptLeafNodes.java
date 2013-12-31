@@ -7,7 +7,7 @@ import trees.treeproblems.FindSumOfAllNodesExceptLeaf;
 
 /**
  * Test class for findSumExceptLeafNodes
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/15/13
  * Time: 4:11 PM
  */

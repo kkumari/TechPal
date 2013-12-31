@@ -7,7 +7,7 @@ package sorting.algorithms;
  * the active element.
  * In this algorithm, a minimal element is found in the list and put in the start of the list.
  *
- * User: rpanjrath
+ * User: vpaloju
  * Date: 8/20/13
  * Time: 2:54 PM
  */

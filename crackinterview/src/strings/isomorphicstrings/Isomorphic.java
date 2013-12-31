@@ -21,7 +21,7 @@ import java.util.Map;
  * <p/>
  * given "ab", "ca"; returns true
  * we can map 'a' -> 'c', 'b' -> 'a'
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/7/13
  * Time: 7:55 PM
  */

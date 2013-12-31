@@ -2,7 +2,7 @@ package strings.firstnonrepeatedchar;
 
 /**
  * Test
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/18/13
  * Time: 4:17 PM
  */

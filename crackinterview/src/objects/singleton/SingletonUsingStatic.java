@@ -3,7 +3,7 @@ package objects.singleton;
 /**
  * Singleton pattern example with static factory method
  * Eagerly initialized.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/15/13
  * Time: 12:21 PM
  */

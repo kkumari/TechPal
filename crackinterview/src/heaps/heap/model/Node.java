@@ -2,7 +2,7 @@ package heaps.heap.model;
 
 /**
  * Represents a node in the heap.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/24/13
  * Time: 2:24 PM
  */

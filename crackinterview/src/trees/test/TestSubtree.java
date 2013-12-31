@@ -6,7 +6,7 @@ import trees.treeproblems.CheckSubtree;
 
 /**
  * Test class for checking subtree.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/4/13
  * Time: 1:22 PM
  */

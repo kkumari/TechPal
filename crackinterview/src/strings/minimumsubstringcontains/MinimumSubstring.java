@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * Find min substring that contains all the char of target string.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/22/13
  * Time: 6:49 PM
  */

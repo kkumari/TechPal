@@ -2,7 +2,7 @@ package strings.findtotalpalindromes;
 
 /**
  * Test class.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/6/13
  * Time: 1:59 PM
  */

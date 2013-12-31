@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * POJO representing a Link
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/29/13
  * Time: 3:34 PM
  */

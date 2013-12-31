@@ -7,7 +7,7 @@ import trees.treeproblems.CheckBalancedTree;
 
 /**
  * Test class for balanced tree.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/4/13
  * Time: 3:30 PM
  */

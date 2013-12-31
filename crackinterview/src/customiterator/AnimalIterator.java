@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * Custom Iterator.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 9/12/13
  * Time: 1:32 PM
  */

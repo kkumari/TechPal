@@ -2,7 +2,7 @@ package trees.model;
 
 /**
  * It represents an individual node in a tree.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/3/13
  * Time: 12:07 PM
  */

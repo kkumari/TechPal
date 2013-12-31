@@ -4,7 +4,7 @@ import heaps.heap.model.Node;
 
 /**
  * Max heap. It will always have maximum value @root or heapArray[0].
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/24/13
  * Time: 2:34 PM
  */

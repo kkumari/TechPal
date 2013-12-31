@@ -3,7 +3,7 @@ package arrays.circularshiftintarray;
 /**
  * Shift array of integers circularly given input array and shift size.
  * O(N) time and space complexity.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/11/13
  * Time: 5:30 PM
  */

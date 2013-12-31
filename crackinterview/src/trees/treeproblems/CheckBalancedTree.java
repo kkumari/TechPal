@@ -8,7 +8,7 @@ import trees.model.SearchNode;
  *
  * a balanced binary search tree will have equal heights (plus or minus one) on the left and right sub-trees of each node.
  *
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/4/13
  * Time: 1:57 PM
  */

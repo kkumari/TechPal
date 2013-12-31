@@ -2,7 +2,7 @@ package strings.longestsubstringnorepeatedchar;
 
 /**
  * Test class
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/11/13
  * Time: 1:57 PM
  */
@@ -10,7 +10,7 @@ public class Test {
 
     public static void main(String[] args) {
         String string = "ABCADEABFTR";
-//        String string = "rpanjrath";
+//        String string = "vpaloju";
 //        String string = "AABC";
 //        String string = "abcdefghijklmnopqrstuvwxyz";
 //        String string = "abcdeffffffffghijklmnopq";

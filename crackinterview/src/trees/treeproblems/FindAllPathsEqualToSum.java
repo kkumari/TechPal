@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * All paths with Specified Sum in Binary Tree.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/4/13
  * Time: 4:47 PM
  */

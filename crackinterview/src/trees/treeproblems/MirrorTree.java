@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * Check if a tree T2 is mirror of BinarySearchTree T1.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/3/13
  * Time: 4:53 PM
  */

@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Test class for Cartesian of Lists of lists.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/17/13
  * Time: 1:53 PM
  */

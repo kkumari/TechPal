@@ -10,7 +10,7 @@ import java.util.LinkedHashSet;
 
 /**
  * Custom Linked List Implementation.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/29/13
  * Time: 3:35 PM
  */

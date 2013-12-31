@@ -2,7 +2,7 @@ package strings.stringsubsequencecheck;
 
 /**
  * Return true if stringA is subsequence of stringB
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/18/13
  * Time: 4:36 PM
  */

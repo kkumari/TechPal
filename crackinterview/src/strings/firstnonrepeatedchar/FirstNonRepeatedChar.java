@@ -7,7 +7,7 @@ import java.util.Set;
 
 /**
  * Find first non-repeated character.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/18/13
  * Time: 1:52 PM
  */

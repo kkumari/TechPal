@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * Find cartesian of Lists of lists.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/17/13
  * Time: 1:48 PM
  */

@@ -4,7 +4,7 @@ import trees.model.SearchNode;
 
 /**
  * Find sum of all nodes except the leaf nodes.
- * User: rpanjrath
+ * User: vpaloju
  * Date: 10/15/13
  * Time: 3:36 PM
  */

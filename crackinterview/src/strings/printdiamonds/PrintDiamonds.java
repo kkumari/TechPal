@@ -7,7 +7,7 @@ package strings.printdiamonds;
  * *****
  *  ***
  *   *
- * User: rpanjrath
+ * User: vpaloju
  * Date: 11/20/13
  * Time: 4:16 PM
  */

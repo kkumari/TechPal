@@ -4,7 +4,7 @@ package sorting.algorithms;
  * Choose a pivot value, Partition and Sort both parts. Recursive operation.
  * O(n log n)
  * <p/>
- * User: rpanjrath
+ * User: vpaloju
  * Date: 8/20/13
  * Time: 2:55 PM
  */
