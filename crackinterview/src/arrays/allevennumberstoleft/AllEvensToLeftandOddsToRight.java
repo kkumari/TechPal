@@ -20,6 +20,7 @@ public class AllEvensToLeftandOddsToRight {
             System.out.print(i + " ");
         }
         System.out.println();
+        System.out.println("kanchan eiting");
         int currentPosition = 0;
         for (int i = 0; i < inputArray.length; i++) {
             if (inputArray[i] % 2 == 0) {
